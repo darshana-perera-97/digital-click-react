@@ -3,7 +3,7 @@ import React from "react";
 import AppSet from "./Layouts/AppSet";
 import FullClock from "./Layouts/FullClock";
 import Weather from "./Layouts/Weather";
-import Weather2 from "./Layouts/Weather2";
+// import Weather2 from "./Layouts/Weather2";
 
 export default function Home() {
   return (
